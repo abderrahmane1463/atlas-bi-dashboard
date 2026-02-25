@@ -16,8 +16,11 @@ This project transforms raw operational data (9,994 records) into an interactive
 ## 🎯 Key Performance Indicators (KPIs)
 The dashboard tracks four primary metrics to monitor the "pulse" of the business:
 1. **Total Sales**: Gross revenue generated across the entire dataset.
+   
 2.**Total Profit**: The bottom-line earnings of the company.
+
 3.**Average Order Value (AOV)**: The average revenue generated per order.
+
 4. **Customer Count**: Total unique customers served.
 
 ---
